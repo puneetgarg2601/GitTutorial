@@ -1,0 +1,2 @@
+git config --global user.name "Kunal Kushwaha"
+git confit --global user.email "kunalkushwaha453@gmail.com"
